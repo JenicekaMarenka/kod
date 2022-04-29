@@ -1,0 +1,2 @@
+# kod
+Dedic_WEBKA
